@@ -1,1 +1,3 @@
-[https://example.com](https://page-self.vercel.app/)
+
+
+https://qudamyker.github.io/page/
